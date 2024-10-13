@@ -1,0 +1,65 @@
+body{background-color: bisque;}
+
+
+.title {
+    font-size: 3em;
+    font: optional;color: azure;
+    background-color: black;
+}
+
+.fotito{
+
+    width: 400px;;
+    border: 4px rgb(238, 35, 35) solid
+    
+}
+
+
+
+
+#princi{
+    font-size: 5em;
+    color: coral;
+
+}
+#uno{ 
+
+border:3px
+solid
+black;
+width: fit-content;
+margin: auto;
+padding: 4em;
+ border-radius: 80%;
+
+}
+
+
+.ENLACE {
+    border: 3px solid black;
+    margin: auto;
+    padding: auto;
+    width: fit-content;
+   
+}
+
+
+.click{
+    border: 2px solid black;
+    background-color: rgb(156, 109, 109)
+}
+
+.click:hover{
+    background-color: aliceblue;
+}
+
+
+#anda{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+ Verdana, sans-serif;
+ border: 3px solid black; 
+}
+#anda:hover{
+background-color: antiquewhite;
+
+}
